@@ -1,0 +1,15 @@
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: cadetblue;
+}
+
+a:visited {
+    color: cadetblue;
+}
+
+a:hover {
+    color: cadetblue;
+}
